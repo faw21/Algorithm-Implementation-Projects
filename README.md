@@ -1,1 +1,33 @@
 # Algorithm-Implementation-Projects
+
+Projects from class
+
+Four regular projects and one term project
+
+### Project 1:
+  - The Cloth-cutting Problem.
+  - Given a large, rectangular piece of cloth (dimension: X by Y)
+  - Known a list of cloth products i with their dimension (xi by yi) and prices (pi)
+  - Cut the cloth into products while maxmize its value
+ 
+### Project 2:
+  - basic and complicate SQL queries
+  - input: five csv files containing five different tables of a database
+  - output: results of 12 different queries
+  
+### Project 3:
+  - use python to implement ASSOCIATION RULE MINING
+  - input: a csv files containing information of transactions
+  - output: transaction sets which satisfy the association rule
+  
+### Project 4:
+  - use python and neo4j to implement queries of graph database
+  - input: sample data from neo4j ([Movies data](https://neo4j.com/developer/example-data/))
+  - output: results of eight different queries
+  
+### Term Project:
+  - a big project regarding data analysis and data visualization
+  - input: 90000 pieces of trip data from [HealthyRidePGH website](https://healthyridepgh.com/)
+  - output: a various graphs and charts based on input data
+
+---
