@@ -1,6 +1,6 @@
-Cloth-Cutting Problem
-Aaron Wu
-October 7, 2018
+# Cloth-Cutting Problem
+### Aaron Wu ###
+### October 7, 2018 ###
 
 ### INTRODUCTION ###
 
@@ -32,7 +32,7 @@ could be changed to modify the dimension of the cloth.
 
 You can also add patterns under the main method using the format below:
 	
-'patterns.add(new Pattern(int width, int height, int value, String name));'
+`patterns.add(new Pattern(int width, int height, int value, String name));`
 
 or delete the patterns existed.
 
