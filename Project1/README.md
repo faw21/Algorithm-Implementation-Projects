@@ -1,12 +1,12 @@
 Cloth-Cutting Problem
-Fangzheng Wu
+Aaron Wu
 October 7, 2018
 
-INTRODUCTION
+### INTRODUCTION ###
 
 The Cloth-cutting Problem is a similar problem with the knapsack problem: Given a rectangular cloth with dimension X(width) by Y(height), one should cut this cloth into pieces to make goods among n different kinds that could be sold at different price. Also, different goods require different area of cloth (xi by yi). This program is written to find out a best way to cut the given cloth in order to achieve highest value.
 
-INSTALLATION
+### INSTALLATION ###
 
 The following files should be present:
 	
@@ -19,20 +19,23 @@ The following files should be present:
 	README.txt
 	
 
-USAGE
+### USAGE ###
 
 Simply compile and run the TestClothCutter.java, and it will show the visual solution of the cloth-cutting problem.
+
 The variable of:
-	
-	width
-	height
+```
+width
+height
+```
 could be changed to modify the dimension of the cloth.
+
 You can also add patterns under the main method using the format below:
 	
-	patterns.add(new Pattern(int width, int height, int value, String name));
+'patterns.add(new Pattern(int width, int height, int value, String name));'
 
 or delete the patterns existed.
 
-PROBLEMS
+### PROBLEMS ###
 
 No known problems.
