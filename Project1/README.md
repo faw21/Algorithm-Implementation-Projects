@@ -1,6 +1,6 @@
 # Cloth-Cutting Problem
-### Aaron Wu ###
-### October 7, 2018 ###
+ - Aaron Wu
+ - October 7, 2018
 
 ### INTRODUCTION ###
 
