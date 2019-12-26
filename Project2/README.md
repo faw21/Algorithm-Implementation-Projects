@@ -1,10 +1,12 @@
-Cloth-Cutting Problem
-Fangzheng Wu
-October 7, 2018
+# Finding Anagrams
+### Aaron Wu ###
+### November, 2018 ###
+---
+### INTRODUCTION ###
 
-INTRODUCTION
+An Anagram is a permutation of the letters of a word or phrase. For instance, agstemecrasese can be unscrambled (with the addition of spaces) to yield a secret message (and many other phrases as well).
 
-The Cloth-cutting Problem is a similar problem with the knapsack problem: Given a rectangular cloth with dimension X(width) by Y(height), one should cut this cloth into pieces to make goods among n different kinds that could be sold at different price. Also, different goods require different area of cloth (xi by yi). This program is written to find out a best way to cut the given cloth in order to achieve highest value.
+This project has two parts: a hash table and an anagram decoder. 
 
 INSTALLATION
 
