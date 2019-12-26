@@ -4,21 +4,16 @@
 ---
 ### INTRODUCTION ###
 
-An Anagram is a permutation of the letters of a word or phrase. For instance, agstemecrasese can be unscrambled (with the addition of spaces) to yield a secret message (and many other phrases as well).
+An Anagram is a permutation of the letters of a word or phrase. For instance, 'agstemecrasese' can be unscrambled (with the addition of spaces) to yield 'a secret message' (and many other phrases as well).
 
-This project has two parts: a hash table and an anagram decoder. 
+This project unscrambles anagrams into words of the dictionary.
 
 INSTALLATION
 
 The following files should be present:
 	
-	TestClothCutter.java
-	ClothCutter.java
-	Pattern.java
-	Cloth.java
-	Cut.java
-	Garment,java
-	README.txt
+	AnagramDecoder.java
+	dictionary.txt
 	
 
 USAGE
