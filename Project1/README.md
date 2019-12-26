@@ -1,7 +1,7 @@
 # Cloth-Cutting Problem
- - Aaron Wu
- - October 7, 2018
-
+### Aaron Wu ###
+### October 7, 2018 ###
+---
 ### INTRODUCTION ###
 
 The Cloth-cutting Problem is a similar problem with the knapsack problem: Given a rectangular cloth with dimension X(width) by Y(height), one should cut this cloth into pieces to make goods among n different kinds that could be sold at different price. Also, different goods require different area of cloth (xi by yi). This program is written to find out a best way to cut the given cloth in order to achieve highest value.
