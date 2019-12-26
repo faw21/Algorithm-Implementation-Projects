@@ -4,32 +4,30 @@
 ---
 ### INTRODUCTION ###
 
-An Anagram is a permutation of the letters of a word or phrase. For instance, 'agstemecrasese' can be unscrambled (with the addition of spaces) to yield 'a secret message' (and many other phrases as well).
+An Anagram is a permutation of the letters of a word or phrase. For instance, `agstemecrasese` can be unscrambled (with the addition of spaces) to yield `a secret message` (and many other phrases as well).
 
 This project unscrambles anagrams into words of the dictionary.
 
-INSTALLATION
+### INSTALLATION ###
 
 The following files should be present:
+```
+AnagramDecoder.java
+dictionary.txt
+```
 	
-	AnagramDecoder.java
-	dictionary.txt
-	
+### USAGE ###
 
-USAGE
-
-Simply compile and run the TestClothCutter.java, and it will show the visual solution of the cloth-cutting problem.
-The variable of:
-	
-	width
-	height
-could be changed to modify the dimension of the cloth.
-You can also add patterns under the main method using the format below:
-	
-	patterns.add(new Pattern(int width, int height, int value, String name));
-
-or delete the patterns existed.
-
-PROBLEMS
+Compile and run:
+```
+javac AnagramDecoder.java
+java AnagramDecoder DICTIONARY ANAGRAM
+```
+For example, 
+```
+java AnagramDecoder dictionary.txt gplesetnso
+```
+will print `lets go pens` along with several other ways to unscramble the anagram. 
+### PROBLEMS ###
 
 No known problems.
