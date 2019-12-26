@@ -16,7 +16,7 @@ The following files should be present:
 	Cloth.java
 	Cut.java
 	Garment,java
-	README.txt
+	README.md
 	
 
 ### USAGE ###
