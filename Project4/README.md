@@ -18,6 +18,7 @@ The following files should be present:
 ### USAGE ###
 
 Simply compile and run the TestLCS.java, and it will show the result.
+Note that the two strings are hardcoded in the TestLCS.java. You can modify them in the code.
 
 ### PROBLEMS ###
 
